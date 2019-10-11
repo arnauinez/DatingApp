@@ -22,7 +22,6 @@ C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\bin\Debug\netco
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.runtimeconfig.dev.json
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.dll
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\DatingApp.API.pdb
-C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cache
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorAssemblyInfo.cs
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.AssemblyInfoInputs.cache
@@ -30,3 +29,4 @@ C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netco
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.RazorTargetAssemblyInfo.cache
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
+C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
