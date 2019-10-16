@@ -17,9 +17,9 @@ export class ValueComponent implements OnInit {
   }
 
   getValues() {
-    this.http
     // Deberia tiparse siempre que se pueda ----> get<string[]>('http://localhost:5000/api/values')
-      .get<string[]>('http://localhost:5000/api/values')
+    this.http
+      .get('http://localhost:5000/api/values')
       .subscribe(response => {
         this.values = response;
       }, error => {
