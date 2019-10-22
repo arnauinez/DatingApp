@@ -29,7 +29,6 @@ namespace DatingApp.API.Controllers
         public async Task<IActionResult> Register([FromBody]UserForRegisterDto userForRegisterDto)
         {
             // validate request
-
             userForRegisterDto.Username = userForRegisterDto.Username.ToLower();
 
             if (await _repo.UserExists(userForRegisterDto.Username))
@@ -72,12 +71,13 @@ namespace DatingApp.API.Controllers
                 SigningCredentials = creds
             };
 
-            var tokenHandler = new JwtSecurityTokenHandler();
+            JwtSecurityTokenHandler tokenHandler = new JwtSecurityTokenHandler();
 
             var token = tokenHandler.CreateToken(tokenDescriptor);
 
             return Ok(
-                new {
+                new 
+                {
                     token = tokenHandler.WriteToken(token)
                 });
 
