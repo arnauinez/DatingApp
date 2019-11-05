@@ -39,6 +39,7 @@ namespace DatingApp.API
             services.AddCors();
             // AddScope: Service created once per request but its used for the same instance inside the same request
             services.AddScoped<IAuthRepository, AuthRepository>();
+            services.AddScoped<IDatingRepository, DatingRepository>();
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 .AddJwtBearer(options => {
                     options.TokenValidationParameters = new TokenValidationParameters

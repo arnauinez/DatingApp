@@ -30,3 +30,4 @@ C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netco
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.dll
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.pdb
 C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\obj\Debug\netcoreapp2.1\DatingApp.API.csprojAssemblyReference.cache
+C:\Users\esmarna\Documents\AngularCourse\DatingApp\DatingApp.API\bin\Debug\netcoreapp2.1\Data\UserSeedData.json
