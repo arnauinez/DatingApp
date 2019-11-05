@@ -15,8 +15,8 @@ export class AuthService {
 
   // What we are passing over navbar: user=model
   login(model: any) {
-    // console.log(this.baseUrl + 'login', model);
     const url: string = `${this.baseUrl}/login`;
+    console.log(url, model);
     return this.http.post(url, model).pipe(
         map((response: any) => {
           const user = response;
